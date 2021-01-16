@@ -11,8 +11,7 @@
  
  ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing.fdivrusa.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/11124188831)
-
+[![Spotify](https://spotify-now-playing.fdivrusa.vercel.app//api/spotify)](https://open.spotify.com/user/11124188831)
 ---
  
 <h3 align="left">Connect with me:</h3>
