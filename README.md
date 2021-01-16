@@ -6,13 +6,10 @@
 - 📫 How to reach me **florian.divrusa@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/florian-di-vrusa/](https://www.linkedin.com/in/florian-di-vrusa/)
-
- ---
  
  ### Spotify Playing 🎧
 
 [![Spotify](https://spotify-now-playing.fdivrusa.vercel.app//api/spotify)](https://open.spotify.com/user/11124188831)
----
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
