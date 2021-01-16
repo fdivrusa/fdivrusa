@@ -7,11 +7,29 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/florian-di-vrusa/](https://www.linkedin.com/in/florian-di-vrusa/)
   
+- 👯 I’m looking to collaborate with other content creators
+  
+- 🥅 2021 Goals: Contribute more to Open Source projects
+  
+- ⚡ Fun fact: I think I will finish my life on Mars
+  
 <br>
 
  ### Spotify Playing 🎧
 
 [![Spotify](https://spotify-now-playing.fdivrusa.vercel.app//api/spotify)](https://open.spotify.com/user/11124188831)
+
+ ## &#x1f4c8; My GitHub Stats
+<br>
+<a href="https://github.com/fdivrusa/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdivrusa&hide=html,&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/fdivrusa/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fdivrusa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,16 +53,3 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
----
-
- ## &#x1f4c8; My GitHub Stats
-<br>
-<a href="https://github.com/fdivrusa/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdivrusa&hide=html,&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/fdivrusa/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fdivrusa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
-</a>
- 
