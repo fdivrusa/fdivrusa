@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **.NET Core**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fdivrusa](https://github.com/fdivrusa)
-
 - 📫 How to reach me **florian.divrusa@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/florian-di-vrusa/](https://www.linkedin.com/in/florian-di-vrusa/)
