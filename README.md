@@ -33,8 +33,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/florian-di-vrusa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/florian-di-vrusa/" height="30" width="40" /></a>
-<a href="https://twitter.com/floriandivrusa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="https://www.linkedin.com/in/florian-di-vrusa/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/florian-di-vrusa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/florian-di-vrusa/" height="30" width="40" /></a>
+<a href="https://twitter.com/floriandivrusa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="https://twitter.com/floriandivrusa" height="30" width="40" /></a>
 <a href="https://www.instagram.com/floriandivrusa/?hl=fr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="https://www.instagram.com/floriandivrusa/?hl=fr" height="30" width="40" /></a>
 <a href="https://www.facebook.com/florian.divrusa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="https://www.facebook.com/florian.divrusa/" height="30" width="40" /></a>
 
