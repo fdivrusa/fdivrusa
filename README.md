@@ -10,9 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators
   
 - 🥅 2021 Goals: Contribute more to Open Source projects
-  
-- ⚡ Fun fact: I think I will finish my life on Mars
-  
+    
 <br>
 
  ### Spotify Playing 🎧
