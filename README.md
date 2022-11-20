@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Di Vrusa Florian</h1>
 <h3 align="center">A .NET software engineer from Belgium</h3>
 
-- 🌱 I’m currently learning **.NET Core**
-
 - 📫 How to reach me **florian.divrusa@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/florian-di-vrusa/](https://www.linkedin.com/in/florian-di-vrusa/)
