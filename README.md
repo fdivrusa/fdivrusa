@@ -10,11 +10,6 @@
 - 🥅 2024 Goals: Pass some certifications about Azure
     
 <br>
-
- ### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11124188831&cover_image=true&theme=default&show_offline=false&background_color=012f79&bar_color=15c4d1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
  ## &#x1f4c8; My GitHub Stats
 <br>
 <a href="https://github.com/fdivrusa/">
