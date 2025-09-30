@@ -36,10 +36,10 @@
 ## 🤝 Connect with Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/florian-di-vrusa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://twitter.com/floriandivrusa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/floriandivrusa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/florian.divrusa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/florian-di-vrusa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://twitter.com/floriandivrusa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/floriandivrusa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/florian.divrusa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 </p>
 
 ---
@@ -56,7 +56,7 @@
   <!-- DevOps -->
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank"><img src="https://img.icons8.com/color/48/azure-devops.png" alt="Azure DevOps" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank"><img src="https://www.vectorlogo.zone/logos/azuredevops/azuredevops-icon.svg" alt="Azure DevOps" width="40" height="40"/></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="40" height="40"/></a>
 
   <!-- Tools -->
