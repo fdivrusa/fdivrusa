@@ -1,46 +1,72 @@
-<h1 align="center">Hi 👋, I'm Di Vrusa Florian</h1>
-<h3 align="center">A .NET software engineer from Belgium</h3>
-
-- 📫 How to reach me **florian.divrusa@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/florian-di-vrusa/](https://www.linkedin.com/in/florian-di-vrusa/)
-  
-- 👯 I’m looking to collaborate with other content creators
-  
-- 🥅 2024 Goals: Pass some certifications about Azure
-    
-<br>
- ## &#x1f4c8; My GitHub Stats
-<br>
-<a href="https://github.com/fdivrusa/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdivrusa&hide=html,&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/fdivrusa/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fdivrusa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true" alt="Catalin's GitHub Stats" />
-</a>
+<h1 align="center">Hi 👋, I'm Florian Di Vrusa</h1>
+<h3 align="center">.NET & Azure DevOps Engineer from Belgium</h3>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/florian-di-vrusa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/florian-di-vrusa/" height="30" width="40" /></a>
-<a href="https://twitter.com/floriandivrusa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="https://twitter.com/floriandivrusa" height="30" width="40" /></a>
-<a href="https://www.instagram.com/floriandivrusa/?hl=fr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="https://www.instagram.com/floriandivrusa/?hl=fr" height="30" width="40" /></a>
-<a href="https://www.facebook.com/florian.divrusa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="https://www.facebook.com/florian.divrusa/" height="30" width="40" /></a>
+### 🌍 About Me  
+- 💼 I’m currently working as a **.NET software engineer & DevOps specialist**  
+- 🧑‍💻 Passionate about **.NET, Azure Cloud, Angular & Infrastructure as Code (Bicep/Terraform)**  
+- 📫 Reach me at **florian.divrusa@gmail.com**  
+- 📄 More about my experience → [LinkedIn](https://www.linkedin.com/in/florian-di-vrusa/)  
+- 👯 I’m looking to collaborate on **open-source projects & cloud automation tools**  
+- 🎯 **2025 Goals**:  
+  - Gain advanced certifications in **Azure & DevOps**  
+  - Contribute to **open-source .NET/Angular projects**  
+  - Automate more with **Bicep, GitHub Actions, and Azure Pipelines**  
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <a href="https://github.com/fdivrusa">
+    <img src="https://github-readme-stats.vercel.app/api?username=fdivrusa&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="160"/>
+  </a>
+  <a href="https://github.com/fdivrusa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdivrusa&layout=compact&theme=radical" height="160"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fdivrusa&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 🤝 Connect with Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/florian-di-vrusa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://twitter.com/floriandivrusa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/floriandivrusa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/florian.divrusa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools  
+
 <p align="left"> 
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+  <!-- Core -->
+  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> </a>
+  <a href="https://learn.microsoft.com/en-us/azure/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a>
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
+
+  <!-- DevOps -->
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/azure-devops.svg" alt="Azure DevOps" width="40" height="40"/> </a>
+  <a href="https://github.com/features/actions" target="_blank"> <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="40" height="40"/> </a>
+
+  <!-- Tools -->
+  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
+  <a href="https://swagger.io/" target="_blank"> <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="Swagger" width="40" height="40"/> </a>
+  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" alt="SonarQube" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="SQL Server" width="40" height="40"/> </a>
+</p>
+
+---
+
+⭐️ From [fdivrusa](https://github.com/fdivrusa)
