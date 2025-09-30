@@ -36,10 +36,10 @@
 ## 🤝 Connect with Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/florian-di-vrusa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://twitter.com/floriandivrusa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/floriandivrusa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/florian.divrusa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/florian-di-vrusa/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://twitter.com/floriandivrusa" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/floriandivrusa/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="40" width="40" /></a>
+  <a href="https://www.facebook.com/florian.divrusa/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="40" width="40" /></a>
 </p>
 
 ---
