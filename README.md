@@ -60,7 +60,7 @@ I am a **.NET Software Engineer** currently working within a DevOps team. I love
     <tr>
       <td>
         <a href="https://github.com/fdivrusa">
-          <img src="https://github-readme-stats.vercel.app/api?username=fdivrusa&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="400" alt="stats graph" />
+          <img src="https://github-readme-stats.vercel.app/api?username=fdivrusa&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="stats graph" />
         </a>
       </td>
       <td>
