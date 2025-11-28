@@ -42,8 +42,13 @@ I am a **.NET Software Engineer** currently working within a DevOps team. I love
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,powershell,bash,postman,mssql,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,powershell,bash,postman,vscode&perline=14" />
   </a>
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
 </p>
 
 ---
@@ -51,20 +56,24 @@ I am a **.NET Software Engineer** currently working within a DevOps team. I love
 ### 📊 GitHub Stats
 
 <div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/fdivrusa">
+          <img src="https://github-readme-stats.vercel.app/api?username=fdivrusa&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="400" alt="stats graph" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/fdivrusa">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdivrusa&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="languages graph" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-<a href="https://github.com/fdivrusa">
-  <img src="https://github-readme-stats.vercel.app/api?username=fdivrusa&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph"  />
-</a>
-<a href="https://github.com/fdivrusa">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdivrusa&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph"  />
-</a>
-
-<br/>
-
-<a href="https://github.com/fdivrusa">
-  <img src="https://streak-stats.demolab.com?user=fdivrusa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
-
+  <a href="https://github.com/fdivrusa">
+    <img src="https://streak-stats.demolab.com?user=fdivrusa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
