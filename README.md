@@ -53,30 +53,33 @@ I am a **.NET Software Engineer** currently working within a DevOps team. I love
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/fdivrusa">
-          <img src="https://github-readme-stats.vercel.app/api?username=fdivrusa&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="stats graph" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/fdivrusa">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdivrusa&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="languages graph" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+
+<p align="center">
 
   <a href="https://github.com/fdivrusa">
-    <img src="https://streak-stats.demolab.com?user=fdivrusa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
 
----
+    <img src="https://github-readme-stats.vercel.app/api?username=fdivrusa&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="160"/>
+
+  </a>
+
+  <a href="https://github.com/fdivrusa">
+
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdivrusa&layout=compact&theme=radical" height="160"/>
+
+  </a>
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fdivrusa&theme=radical" alt="GitHub Streak Stats" />
+
+</p>
 
 <p align="center">
   <sub>⭐️ Thanks for visiting! Connect with me on <a href="https://www.linkedin.com/in/florian-di-vrusa/">LinkedIn</a>.</sub>
