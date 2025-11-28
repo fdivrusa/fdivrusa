@@ -53,34 +53,6 @@ I am a **.NET Software Engineer** currently working within a DevOps team. I love
 
 ---
 
-## 📊 GitHub Stats  
-
-
-
-<p align="center">
-
-  <a href="https://github.com/fdivrusa">
-
-    <img src="https://github-readme-stats.vercel.app/api?username=fdivrusa&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="160"/>
-
-  </a>
-
-  <a href="https://github.com/fdivrusa">
-
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdivrusa&layout=compact&theme=radical" height="160"/>
-
-  </a>
-
-</p>
-
-
-
-<p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fdivrusa&theme=radical" alt="GitHub Streak Stats" />
-
-</p>
-
 <p align="center">
   <sub>⭐️ Thanks for visiting! Connect with me on <a href="https://www.linkedin.com/in/florian-di-vrusa/">LinkedIn</a>.</sub>
 </p>
