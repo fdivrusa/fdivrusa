@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Florian;A+.NET+Software+Engineer;Cloud+Architecture+%26+DevOps+Skills;Based+in+Belgium" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=450&lines=Hi+there!+%F0%9F%91%8B+I'm+Florian;.NET+Engineer+%26+Architect;Freelance+%40+FlorisNexus;Based+in+Belgium" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -20,17 +20,20 @@
 
 ### 👨‍💻 About Me
 
-I am a **.NET Software Engineer** currently working within a DevOps team. I love writing clean C# code but also enjoy managing the full deployment chain—from Infrastructure as Code to CI/CD pipelines.
+I am a **.NET Software Engineer & Architect** working within a DevOps ecosystem. I love writing clean, high-performance C# code and managing the full lifecycle of cloud architectures—from Infrastructure as Code to CI/CD automation.
 
-- 💼 I’m currently working on **Enterprise .NET Applications & Azure Cloud**
-- 🛠️ I specialize in **.NET, Azure, Bicep, and Automation**
-- 🌱 I’m currently diving deeper into **Advanced GitHub Security & Architecture**
+Alongside my enterprise role, I run **[FlorisNexus](https://github.com/FlorisNexus)**, my part-time freelance activity dedicated to crafting bespoke web platforms, automating business processes, and consulting on cloud & DevOps engineering.
+
+- 💼 **Enterprise**: Enterprise .NET Applications & Azure Cloud
+- 🚀 **Freelance**: Web apps, custom automations, and consulting via **[FlorisNexus](https://github.com/FlorisNexus)**
+- 🛠️ **Specialties**: .NET Core, Azure Cloud, Bicep (IaC), and GitHub Actions
+- 🌱 **Current Focus**: Cloud-Native architectures, microservices, and AI-driven development
 - ⚡ **Philosophy**: "You build it, you run it."
 
-### 🎯 2025 Goals
-> 1. Gain advanced certifications in **Azure Development**
-> 2. Sharpen expertise with **Bicep, GitHub Actions, and Pipelines**
-> 3. Build a new personal project to explore modern software architecture
+### 🎯 2026 Goals
+> 1. Scale freelance projects and consulting under the **[FlorisNexus](https://github.com/FlorisNexus)** umbrella
+> 2. Master advanced cloud design patterns and serverless architectures on Azure
+> 3. Build and refine open-source workflow automation tools and security standards
 
 ---
 
@@ -54,5 +57,5 @@ I am a **.NET Software Engineer** currently working within a DevOps team. I love
 ---
 
 <p align="center">
-  <sub>⭐️ Thanks for visiting! Connect with me on <a href="https://www.linkedin.com/in/florian-di-vrusa/">LinkedIn</a>.</sub>
+  <sub>⭐️ Thanks for visiting! Connect with me on <a href="https://www.linkedin.com/in/florian-di-vrusa/">LinkedIn</a> or check out my work at <a href="https://github.com/FlorisNexus">FlorisNexus</a>.</sub>
 </p>
